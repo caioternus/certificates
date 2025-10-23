@@ -1,7 +1,7 @@
 # List of certificates
 
 This repository is a list of certificates (technical and non-technical) from courses that complement my formal education.
-It was created primarily to reduce the amount of information available on my professional LinkedIn profile and to dissaminate knowledge trails available online.
+It was created primarily to reduce the amount of information available on my professional LinkedIn profile and to dissaminate some study materials.
 
 **Tech**
 
