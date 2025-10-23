@@ -26,6 +26,8 @@ Polytechnic University of Lisbon - Database Fundamentals (25h) [link](https://lm
 
 Polytechnic University of Lisbon - Data Structures (25h) [link](https://lms.nau.edu.pt/certificates/1c8e2d18230546e297f5e0c59a10a2dc)
 
+Simplilearn - Introduction to Tableau (2h) [link](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiI0MDY4IiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvNzUyOTU5M181MjczOTA4MTczMDk5NzM4MDU3Mi5wbmciLCJ1c2VybmFtZSI6IkNhaW8gVGVybnVzIGRlIEFicmV1In0%3D&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fdashboard%2Fcertificate&%24web_only=true&_branch_match_id=1484989663381061130&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVzzAv8AhLNfHP9k%2ByrytKTUstKsrMS49PKsovL04tsvUBqkpN8cwDAFr2JqJBAAAA)
+
 Udemy - Bootcamp Python (34h) [link](https://www.udemy.com/certificate/UC-5a292490-b158-4fb5-b1e6-90633ec92eef/)
 
 Udemy - JavaScript Fundamentals (8h) [link](https://www.udemy.com/certificate/UC-d7511cce-9f91-4b3e-bd2a-12638c91ca29/)
