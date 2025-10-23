@@ -7,11 +7,9 @@ This repository is a list of certificates (technical and non-technical) from cou
 
 Asana Academy - Asana Foundations Skill Badge (2h) [link](https://certifications.asana.com/f2b0810d-b722-433b-bed2-291d2e36bfda#acc.cyJgevC6)
 
-Escola Nacional de Administração Pública - Process Analysis and Improvement (20h)
+Databricks Academy - Databricks Fundamentals (2h) [link](https://credentials.databricks.com/f979c3bf-b497-40a8-b22a-8aed412f59ea#acc.MIBUkpQx)
 
 Data Science Academy - Microsoft Power BI for Business Intelligence and Data Science (72h) [link](https://www.datascienceacademy.com.br/certificate_v2/6462fe1b2bb04988150abc99/user/674b082d4f28d8069d02b8ba)
-
-FGV Online - SQL Structured Query Language Fundamentals (24h) 
 
 Miro Academy - Miro Essentials Skill Badge (2h) [link](https://www.credly.com/badges/cc5cbf0f-0040-4f6d-a1ea-3f9a0b0c467d)
 
