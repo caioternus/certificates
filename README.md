@@ -14,6 +14,10 @@ Databricks Academy - Databricks Fundamentals (2h) [link](https://credentials.dat
 
 Data Science Academy - Fundamentals of Microsoft Power BI for Business Intelligence and Data Science (72h) [link](https://www.datascienceacademy.com.br/certificate_v2/6462fe1b2bb04988150abc99/user/674b082d4f28d8069d02b8ba)
 
+Google Cloud Skills Boost - Google Sheets (3h) [link](https://www.skills.google/public_profiles/40c4c626-674f-41f6-aae1-57f1c7419923/badges/13434580)
+
+Great Learning Academy - Introduction to PostgreSQL (1h) [link](https://www.mygreatlearning.com/certificate/CTHRKSDY)
+
 Miro Academy - Miro Essentials Skill Badge (2h) [link](https://www.credly.com/badges/cc5cbf0f-0040-4f6d-a1ea-3f9a0b0c467d)
 
 Polytechnic University of Lisbon - Database Fundamentals (25h) [link](https://lms.nau.edu.pt/certificates/267cf963bc6d444a9db7aa6ba4bd393b)
