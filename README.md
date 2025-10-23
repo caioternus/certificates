@@ -22,6 +22,8 @@ Fundação Getúlio Vargas / FGV Online - SQL Structured Query Language (24h) [l
 
 Google Cloud Skills Boost - Google Sheets (3h) [link](https://www.skills.google/public_profiles/40c4c626-674f-41f6-aae1-57f1c7419923/badges/13434580)
 
+Great Learning Academy - Introduction to API and RESTful API (1h) [link](https://www.mygreatlearning.com/certificate/JRKXBCOQ)
+
 Great Learning Academy - Introduction to PostgreSQL (1h) [link](https://www.mygreatlearning.com/certificate/CTHRKSDY)
 
 Miro Academy - Miro Essentials Skill Badge (2h) [link](https://www.credly.com/badges/cc5cbf0f-0040-4f6d-a1ea-3f9a0b0c467d)
@@ -31,6 +33,12 @@ Polytechnic University of Lisbon - Database Fundamentals (25h) [link](https://lm
 Polytechnic University of Lisbon - Data Structures (25h) [link](https://lms.nau.edu.pt/certificates/1c8e2d18230546e297f5e0c59a10a2dc)
 
 Santander Open Academy - Power BI Fundamentals (8h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757675670531/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
+
+SAP Learning - Getting Started with Concur Expense Learning Journey for Customer Users (3h) [link](https://www.credly.com/badges/22a3b30f-0cd4-40bf-8dac-80ec1ada3fc9)
+
+Simplilearn - Introduction to Cybersecurity (2h) [link](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxMjEzIiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvdGh1bWJfNzM4MjQ5OF8xNzI2NTk3MzI1LnBuZyIsInVzZXJuYW1lIjoiQ2FpbyBUZXJudXMgZGUgQWJyZXUifQ%3D%3D&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fdashboard%2Fcertificate&%24web_only=true&_branch_match_id=1484989663381061130&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVr8qNMqvyTPew9E2yrytKTUstKsrMS49PKsovL04tsvUBqkpN8cwDAK%2Bg0VFBAAAA)
+
+Simplilearn - Introduction to Kubernetes (2h) [link](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxNzQyIiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvdGh1bWJfNzM5OTI3NV8xNzI3MTkwNDA4LnBuZyIsInVzZXJuYW1lIjoiQ2FpbyBUZXJudXMgZGUgQWJyZXUifQ%3D%3D&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F4232%2FIntroduction-to-Kubernetes%2Fcertificate%2Fdownload-skillup&%24web_only=true&_branch_match_id=1484989663381061130&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVLwkLNPHKDXK39E2yrytKTUstKsrMS49PKsovL04tsvUBqkpN8cwDAMtQy7JBAAAA)
 
 Simplilearn - Introduction to Tableau (2h) [link](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiI0MDY4IiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvNzUyOTU5M181MjczOTA4MTczMDk5NzM4MDU3Mi5wbmciLCJ1c2VybmFtZSI6IkNhaW8gVGVybnVzIGRlIEFicmV1In0%3D&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fdashboard%2Fcertificate&%24web_only=true&_branch_match_id=1484989663381061130&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVzzAv8AhLNfHP9k%2ByrytKTUstKsrMS49PKsovL04tsvUBqkpN8cwDAFr2JqJBAAAA)
 
