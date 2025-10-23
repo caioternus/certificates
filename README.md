@@ -14,7 +14,7 @@ Cisco Networking Academy - Introduction to Data Science (6h) [link](https://www.
 
 Databricks Academy - Databricks Fundamentals (2h) [link](https://credentials.databricks.com/f979c3bf-b497-40a8-b22a-8aed412f59ea#acc.MIBUkpQx)
 
-Data Science Academy - Fundamentals of Microsoft Power BI for Business Intelligence and Data Science (72h) [link](https://www.datascienceacademy.com.br/certificate_v2/6462fe1b2bb04988150abc99/user/674b082d4f28d8069d02b8ba)
+Data Science Academy / DSA - Fundamentals of Microsoft Power BI for Business Intelligence and Data Science (72h) [link](https://www.datascienceacademy.com.br/certificate_v2/6462fe1b2bb04988150abc99/user/674b082d4f28d8069d02b8ba)
 
 Escola Nacional de Administração Pública / ENAP - Process Analysis and Improvement (20h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757672561505/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
 
