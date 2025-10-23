@@ -10,11 +10,15 @@ It was created primarily to reduce the amount of information available on my pro
 
 Asana Academy - Asana Foundations Skill Badge (2h) [link](https://certifications.asana.com/f2b0810d-b722-433b-bed2-291d2e36bfda#acc.cyJgevC6)
 
+Cisco Networking Academy - Introduction to Data Science (6h) [link](https://www.credly.com/badges/d7da0084-ac7e-4082-9187-c23a99a42318)
+
 Databricks Academy - Databricks Fundamentals (2h) [link](https://credentials.databricks.com/f979c3bf-b497-40a8-b22a-8aed412f59ea#acc.MIBUkpQx)
 
 Data Science Academy - Fundamentals of Microsoft Power BI for Business Intelligence and Data Science (72h) [link](https://www.datascienceacademy.com.br/certificate_v2/6462fe1b2bb04988150abc99/user/674b082d4f28d8069d02b8ba)
 
-Cisco Networking Academy - Introduction to Data Science (6h) [link](https://www.credly.com/badges/d7da0084-ac7e-4082-9187-c23a99a42318)
+Escola Nacional de Administração Pública / ENAP - Process Analysis and Improvement (20h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757672561505/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
+
+Fundação Getúlio Vargas / FGV Online - SQL Structured Query Language (24h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1759505974351/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
 
 Google Cloud Skills Boost - Google Sheets (3h) [link](https://www.skills.google/public_profiles/40c4c626-674f-41f6-aae1-57f1c7419923/badges/13434580)
 
@@ -25,6 +29,8 @@ Miro Academy - Miro Essentials Skill Badge (2h) [link](https://www.credly.com/ba
 Polytechnic University of Lisbon - Database Fundamentals (25h) [link](https://lms.nau.edu.pt/certificates/267cf963bc6d444a9db7aa6ba4bd393b)
 
 Polytechnic University of Lisbon - Data Structures (25h) [link](https://lms.nau.edu.pt/certificates/1c8e2d18230546e297f5e0c59a10a2dc)
+
+Santander Open Academy - Power BI Fundamentals (8h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757675670531/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
 
 Simplilearn - Introduction to Tableau (2h) [link](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiI0MDY4IiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvNzUyOTU5M181MjczOTA4MTczMDk5NzM4MDU3Mi5wbmciLCJ1c2VybmFtZSI6IkNhaW8gVGVybnVzIGRlIEFicmV1In0%3D&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fdashboard%2Fcertificate&%24web_only=true&_branch_match_id=1484989663381061130&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVzzAv8AhLNfHP9k%2ByrytKTUstKsrMS49PKsovL04tsvUBqkpN8cwDAFr2JqJBAAAA)
 
@@ -38,3 +44,6 @@ Udemy - Microsoft Azure AZ-900 Fundamentals (4.5h) [link](https://udemy-certific
 **Non-Tech**
 
 Cubos Academy - Product Management (6h) [link](https://aulas.cubos.academy/certificado/9dbf1de4-1ac2-4516-bf56-46f57e17d31f/cursos/20972094-4e7a-48c3-a20e-b71d5c7136ec)
+
+Project Management Institute / PMI - The Basics of Scrum (2) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757693615465/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
+
