@@ -10,6 +10,10 @@ Data Science Academy - Microsoft Power BI for Business Intelligence and Data Sci
 
 FGV Online - SQL Structured Query Language Fundamentals (24h) 
 
+Polytechnic University of Lisbon - Database Fundamentals (25h) [link](https://lms.nau.edu.pt/certificates/267cf963bc6d444a9db7aa6ba4bd393b)
+
+Polytechnic University of Lisbon - Data Structures (25h) [link](https://lms.nau.edu.pt/certificates/1c8e2d18230546e297f5e0c59a10a2dc)
+
 Udemy - Microsoft Azure AZ-900 Fundamentals (4.5h) [link](https://udemy-certificate.s3.amazonaws.com/pdf/UC-cbac4f90-5a25-4ae1-9d4c-868858b0c782.pdf)
 
 Udemy - Bootcamp Python (34h) [link](https://www.udemy.com/certificate/UC-5a292490-b158-4fb5-b1e6-90633ec92eef/)
