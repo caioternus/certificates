@@ -8,7 +8,7 @@ It was created primarily to reduce the amount of information available on my pro
 **Tech**
 
 
-Alison - Overview of SAP FICO Financial Accounting & Cost Controlling (2h)
+
 
 Amazon Web Services / AWS - AWS Cloud Essentials (10h) [link](https://www.credly.com/badges/0f7b26cb-c1d3-4f04-a9fb-6bda212e3258/public_url)
 
@@ -167,5 +167,3 @@ Serviço Brasileiro de Apoio às Micro e Pequenas Empresas / SEBRAE - How to Inc
 Serviço Brasileiro de Apoio às Micro e Pequenas Empresas / SEBRAE - Negotiation (3h) [link](https://api-certificados.sebrae.com.br/v1/public/certificado/arquivo/6557c7b309105a59afdabbf0)
 
 Udemy - Agile Project Management with Scrum (6.5h) [link](https://www.udemy.com/certificate/UC-c1f60b98-9fdf-4ba0-b78f-169fb6a89cdb/)
-
-Wizard by Pearson Language Institute - English as Second Language (210h)
