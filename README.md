@@ -16,6 +16,8 @@ Asana Academy - Asana Foundations Skill Badge (2h) [link](https://certifications
 
 Bradesco Foundation - Database Administration (15h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757679093303/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
 
+Bradesco Foundation - Java Programming Language Fundamentals (21h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757679910509/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
+
 Cisco Networking Academy - Introduction to Data Science (6h) [link](https://www.credly.com/badges/d7da0084-ac7e-4082-9187-c23a99a42318)
 
 Databricks Academy - Databricks Fundamentals (2h) [link](https://credentials.databricks.com/f979c3bf-b497-40a8-b22a-8aed412f59ea#acc.MIBUkpQx)
@@ -94,12 +96,16 @@ Simplilearn - Getting Started with Docker (2h) [link](https://www.simplilearn.co
 
 Udemy - Bootcamp Python (34h) [link](https://www.udemy.com/certificate/UC-5a292490-b158-4fb5-b1e6-90633ec92eef/)
 
+Udemy - IT Service Management with ITIL 4 Foundation Course (6.5h) [link](https://www.udemy.com/certificate/UC-3be3db59-0c1a-418d-8647-88478b8a46bb/)
+
 Udemy - JavaScript Fundamentals (8h) [link](https://www.udemy.com/certificate/UC-d7511cce-9f91-4b3e-bd2a-12638c91ca29/)
 
 Udemy - Microsoft Azure AZ-900 Fundamentals (4.5h) [link](https://udemy-certificate.s3.amazonaws.com/pdf/UC-cbac4f90-5a25-4ae1-9d4c-868858b0c782.pdf)
 
 
 **Non-Tech**
+
+Conquer Business School - How to Make Good Presentations (10h) [link](https://drive.conqueronline.com.br/CertificadosTeste/Apresenta%C3%A7%C3%B5es%20que%20conquistam:%20segredos%20da%20influ%C3%AAncia%20e%20persuas%C3%A3o/1699311178394-729cb1e6-1547-47d2-a408-35707a544b3f.jpeg)
 
 Cubos Academy - Product Management (6h) [link](https://aulas.cubos.academy/certificado/9dbf1de4-1ac2-4516-bf56-46f57e17d31f/cursos/20972094-4e7a-48c3-a20e-b71d5c7136ec)
 
@@ -108,5 +114,7 @@ Escola Nacional de Administração Pública / ENAP - Process Analysis and Improv
 IBM SkillsBuild - Project Management Fundamentals (8h) [link](https://www.credly.com/badges/64fbdda9-0d55-401a-86cd-c30f3fccf1b9)
 
 Pontifical Catholic University of Rio Grande do Sul / PUCRS - Change Management Basics (10h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757677536652/single-media-viewer?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BEMtlBnaHT0u5USu%2FlHxJhA%3D%3D)
+
+Porto Business School - Technological Entrepreneurship (12h) [link](https://lms.nau.edu.pt/certificates/87bad5d943c44911b100ea6ae4ed91cd)
 
 Project Management Institute / PMI - The Basics of Scrum (2) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757693615465/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
