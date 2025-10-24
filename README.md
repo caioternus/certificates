@@ -22,6 +22,8 @@ Databricks Academy - Databricks Fundamentals (2h) [link](https://credentials.dat
 
 Data Science Academy / DSA - Fundamentals of Microsoft Power BI for Business Intelligence and Data Science (72h) [link](https://www.datascienceacademy.com.br/certificate_v2/6462fe1b2bb04988150abc99/user/674b082d4f28d8069d02b8ba)
 
+Faculdade de Informática e Administração Paulista / FIAP ON - Cloud Fundamentals (80h) [link](https://on.fiap.com.br/pluginfile.php/1/local_nanocourses/certificado_nanocourse/108865/a4e67aeeb6d343142eefe3ca1c58fb7e/certificado.png)
+
 Fundação Getúlio Vargas / FGV Online - Introduction to Business Intelligence (9h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757715899349/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
 
 Fundação Getúlio Vargas / FGV Online - Introduction to GIT and GitHub (16h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757715657619/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
@@ -44,9 +46,15 @@ IBM SkillsBuild - Customer Engagement: Problem Solving and Process Controls (4h)
 
 IBM SkillsBuild - Information Technology Fundamentals (11h) [link](https://www.credly.com/badges/045ccfaa-c052-4f85-ade2-24f494ed77f4)
 
+Indiana University Bloomington - Basic UNIX / LINUX Skills (4h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757694388267/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
+
+Indiana University Bloomington - HTML5 and CSS: The Basics (4h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757694626881/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
+
 Indiana University Bloomington - Microsoft Excel: Analyzing Data with Pivot Tables (3h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757693938489/single-media-viewer?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BEMtlBnaHT0u5USu%2FlHxJhA%3D%3D)
 
 Indiana University Bloomington - Microsoft Excel: Basic Automation Using Macros (3h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757694032998/single-media-viewer?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BEMtlBnaHT0u5USu%2FlHxJhA%3D%3D)
+
+Indiana University Bloomington - XML: The Basics (4h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757694626881/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
 
 Miro Academy - Miro Essentials Skill Badge (2h) [link](https://www.credly.com/badges/cc5cbf0f-0040-4f6d-a1ea-3f9a0b0c467d)
 
