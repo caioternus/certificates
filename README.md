@@ -32,6 +32,8 @@ Faculdade de Informática e Administração Paulista / FIAP ON - DevOps & Agile 
 
 Faculdade de Informática e Administração Paulista / FIAP ON - Linux Fundamentals (40h) [link](https://on.fiap.com.br/pluginfile.php/1/local_nanocourses/certificado_nanocourse/106871/bb801f424be9a1cc7930c476c48c8ee1/certificado.png)
 
+FM2S Educação e Consultoria - Lean Six Sigma Yellow Belt Training (24h) [link](https://ead.fm2s.com.br/certificado/184932)
+
 Fundação Getúlio Vargas / FGV Online - Introduction to Business Intelligence (9h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757715899349/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
 
 Fundação Getúlio Vargas / FGV Online - Introduction to GIT and GitHub (16h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757715657619/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
@@ -123,6 +125,8 @@ Conquer Business School - Leadership Training (10h) [link](https://drive.conquer
 Cubos Academy - Product Management (6h) [link](https://aulas.cubos.academy/certificado/9dbf1de4-1ac2-4516-bf56-46f57e17d31f/cursos/20972094-4e7a-48c3-a20e-b71d5c7136ec)
 
 G4 Educação - Culture and Leadership (10h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757695132434/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
+
+Escola Nacional de Administração Pública / ENAP - Emotional Intelligence (50h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757697733648/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
 
 Escola Nacional de Administração Pública / ENAP - Personal Finance Management [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757697922830/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
 
