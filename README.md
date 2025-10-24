@@ -8,6 +8,8 @@ It was created primarily to reduce the amount of information available on my pro
 **Tech**
 
 
+Alison - Overview of SAP FICO Financial Accounting & Cost Controlling (2h)
+
 Asana Academy - Asana Foundations Skill Badge (2h) [link](https://certifications.asana.com/f2b0810d-b722-433b-bed2-291d2e36bfda#acc.cyJgevC6)
 
 Cisco Networking Academy - Introduction to Data Science (6h) [link](https://www.credly.com/badges/d7da0084-ac7e-4082-9187-c23a99a42318)
@@ -24,7 +26,15 @@ Google Cloud Skills Boost - Google Sheets (3h) [link](https://www.skills.google/
 
 Great Learning Academy - Introduction to API and RESTful API (1h) [link](https://www.mygreatlearning.com/certificate/JRKXBCOQ)
 
+Great Learning Academy - Introduction to NoSQL (1.5h) [link](https://www.mygreatlearning.com/certificate/FYXIYFEP)
+
 Great Learning Academy - Introduction to PostgreSQL (1h) [link](https://www.mygreatlearning.com/certificate/CTHRKSDY)
+
+Great Learning Academy - Software Development Lifecycle Fundamentals (1.5h) [link](https://www.mygreatlearning.com/certificate/CZFCGSTY)
+
+Great Learning Academy - UI / UX for Beginners (1h) [link](https://www.mygreatlearning.com/certificate/OQLSSQMO)
+
+IBM SkillsBuild - Customer Engagement: Problem Solving and Process Controls (4h) [link](https://www.credly.com/badges/b3b01b05-015d-4184-8964-d333f0d0be98)
 
 Miro Academy - Miro Essentials Skill Badge (2h) [link](https://www.credly.com/badges/cc5cbf0f-0040-4f6d-a1ea-3f9a0b0c467d)
 
