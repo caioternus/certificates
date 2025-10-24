@@ -154,7 +154,7 @@ Pontifical Catholic University of Rio Grande do Sul / PUCRS - Change Management 
 
 Porto Business School - Technological Entrepreneurship (12h) [link](https://lms.nau.edu.pt/certificates/87bad5d943c44911b100ea6ae4ed91cd)
 
-Project Management Institute / PMI - The Basics of Scrum (2) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757693615465/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
+Project Management Institute / PMI - The Basics of Scrum (2h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757693615465/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
 
 Serviço Brasileiro de Apoio às Micro e Pequenas Empresas / SEBRAE - Corporate Social Responsibility (3h) [link](https://api-certificados.sebrae.com.br/v1/public/certificado/arquivo/6557c79809105a59afda8fbe)
 
