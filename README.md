@@ -60,7 +60,13 @@ SAP Learning - Administrating SAP S/4HANA Cloud, Public Edition (5h) [link](http
 
 SAP Learning - Discovering Extended Warehouse Management with SAP S/4HANA (4h) [link](https://www.credly.com/badges/bc163b26-9568-436f-8fb7-3a0a547aac94)
 
+SAP Learning - Discovering SAP Ariba Procurement (1h) [link](https://www.credly.com/badges/1e58970c-b572-45a2-ad0b-4f5c35abd39c)
+
+SAP Learning - Discovering SAP Ariba Sourcing (1h) [link](https://www.credly.com/badges/5df95038-8698-4434-8dcf-ab53bc00acf4)
+
 SAP Learning - Getting Started with Concur Expense Learning Journey for Customer Users (3h) [link](https://www.credly.com/badges/22a3b30f-0cd4-40bf-8dac-80ec1ada3fc9)
+
+SAP Learning - Introducing SAP Fieldglass (5h) [link](https://www.credly.com/badges/b4b12d07-788f-41fc-9174-180c12b3e049)
 
 Simplilearn - Introduction to Cybersecurity (2h) [link](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxMjEzIiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvdGh1bWJfNzM4MjQ5OF8xNzI2NTk3MzI1LnBuZyIsInVzZXJuYW1lIjoiQ2FpbyBUZXJudXMgZGUgQWJyZXUifQ%3D%3D&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fdashboard%2Fcertificate&%24web_only=true&_branch_match_id=1484989663381061130&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVr8qNMqvyTPew9E2yrytKTUstKsrMS49PKsovL04tsvUBqkpN8cwDAK%2Bg0VFBAAAA)
 
@@ -85,7 +91,6 @@ Escola Nacional de Administração Pública / ENAP - Process Analysis and Improv
 
 IBM SkillsBuild - Project Management Fundamentals (8h) [link](https://www.credly.com/badges/64fbdda9-0d55-401a-86cd-c30f3fccf1b9)
 
-Project Management Institute / PMI - The Basics of Scrum (2) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757693615465/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
-
 Pontifical Catholic University of Rio Grande do Sul / PUCRS - Change Management Basics (10h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757677536652/single-media-viewer?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BEMtlBnaHT0u5USu%2FlHxJhA%3D%3D)
 
+Project Management Institute / PMI - The Basics of Scrum (2) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757693615465/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
