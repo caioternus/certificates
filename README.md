@@ -10,6 +10,8 @@ It was created primarily to reduce the amount of information available on my pro
 
 Alison - Overview of SAP FICO Financial Accounting & Cost Controlling (2h)
 
+Amazon Web Services / AWS - AWS Cloud Essentials (10h) [link](https://www.credly.com/badges/0f7b26cb-c1d3-4f04-a9fb-6bda212e3258/public_url)
+
 Asana Academy - Asana Foundations Skill Badge (2h) [link](https://certifications.asana.com/f2b0810d-b722-433b-bed2-291d2e36bfda#acc.cyJgevC6)
 
 Cisco Networking Academy - Introduction to Data Science (6h) [link](https://www.credly.com/badges/d7da0084-ac7e-4082-9187-c23a99a42318)
@@ -35,6 +37,10 @@ Great Learning Academy - Software Development Lifecycle Fundamentals (1.5h) [lin
 Great Learning Academy - UI / UX for Beginners (1h) [link](https://www.mygreatlearning.com/certificate/OQLSSQMO)
 
 IBM SkillsBuild - Customer Engagement: Problem Solving and Process Controls (4h) [link](https://www.credly.com/badges/b3b01b05-015d-4184-8964-d333f0d0be98)
+
+Indiana University Bloomington - Microsoft Excel: Analyzing Data with Pivot Tables (3h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757693938489/single-media-viewer?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BEMtlBnaHT0u5USu%2FlHxJhA%3D%3D)
+
+Indiana University Bloomington - Microsoft Excel: Basic Automation Using Macros (3h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757694032998/single-media-viewer?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BEMtlBnaHT0u5USu%2FlHxJhA%3D%3D)
 
 Miro Academy - Miro Essentials Skill Badge (2h) [link](https://www.credly.com/badges/cc5cbf0f-0040-4f6d-a1ea-3f9a0b0c467d)
 
