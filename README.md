@@ -24,6 +24,10 @@ Data Science Academy / DSA - Fundamentals of Microsoft Power BI for Business Int
 
 Faculdade de Informática e Administração Paulista / FIAP ON - Cloud Fundamentals (80h) [link](https://on.fiap.com.br/pluginfile.php/1/local_nanocourses/certificado_nanocourse/108865/a4e67aeeb6d343142eefe3ca1c58fb7e/certificado.png)
 
+Faculdade de Informática e Administração Paulista / FIAP ON - DevOps & Agile Culture (60h) [link](https://on.fiap.com.br/pluginfile.php/1/local_nanocourses/certificado_nanocourse/107258/18f2ebb76667ea253e00ba290fc34c7f/certificado.png)
+
+Faculdade de Informática e Administração Paulista / FIAP ON - Linux Fundamentals (40h) [link](https://on.fiap.com.br/pluginfile.php/1/local_nanocourses/certificado_nanocourse/106871/bb801f424be9a1cc7930c476c48c8ee1/certificado.png)
+
 Fundação Getúlio Vargas / FGV Online - Introduction to Business Intelligence (9h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757715899349/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
 
 Fundação Getúlio Vargas / FGV Online - Introduction to GIT and GitHub (16h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757715657619/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
@@ -54,7 +58,7 @@ Indiana University Bloomington - Microsoft Excel: Analyzing Data with Pivot Tabl
 
 Indiana University Bloomington - Microsoft Excel: Basic Automation Using Macros (3h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757694032998/single-media-viewer?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BEMtlBnaHT0u5USu%2FlHxJhA%3D%3D)
 
-Indiana University Bloomington - XML: The Basics (4h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757694626881/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
+Indiana University Bloomington - XML: The Essentials (4h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757694626881/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
 
 Miro Academy - Miro Essentials Skill Badge (2h) [link](https://www.credly.com/badges/cc5cbf0f-0040-4f6d-a1ea-3f9a0b0c467d)
 
@@ -74,7 +78,11 @@ SAP Learning - Discovering SAP Ariba Sourcing (1h) [link](https://www.credly.com
 
 SAP Learning - Getting Started with Concur Expense Learning Journey for Customer Users (3h) [link](https://www.credly.com/badges/22a3b30f-0cd4-40bf-8dac-80ec1ada3fc9)
 
+SAP Learning - Getting Started with Support from SAP (Support Accreditation) (3h) [link](https://www.credly.com/badges/80a0c52f-d212-49e5-959a-9186c0db273b)
+
 SAP Learning - Introducing SAP Fieldglass (5h) [link](https://www.credly.com/badges/b4b12d07-788f-41fc-9174-180c12b3e049)
+
+SAP Learning - Learning the Basics of ABAP Programming on SAP BTP (8h) [link](https://www.credly.com/badges/b02dcf05-73f4-42f8-8733-28b0683f3670)
 
 Simplilearn - Introduction to Cybersecurity (2h) [link](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxMjEzIiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvdGh1bWJfNzM4MjQ5OF8xNzI2NTk3MzI1LnBuZyIsInVzZXJuYW1lIjoiQ2FpbyBUZXJudXMgZGUgQWJyZXUifQ%3D%3D&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fdashboard%2Fcertificate&%24web_only=true&_branch_match_id=1484989663381061130&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVr8qNMqvyTPew9E2yrytKTUstKsrMS49PKsovL04tsvUBqkpN8cwDAK%2Bg0VFBAAAA)
 
