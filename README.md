@@ -112,6 +112,14 @@ Udemy - JavaScript Fundamentals (8h) [link](https://www.udemy.com/certificate/UC
 
 Udemy - Microsoft Azure AZ-900 Fundamentals (4.5h) [link](https://udemy-certificate.s3.amazonaws.com/pdf/UC-cbac4f90-5a25-4ae1-9d4c-868858b0c782.pdf)
 
+Udemy - Microsoft Excel from Basics to Advanced (11.5h) [link](https://www.udemy.com/certificate/UC-4e0c1fcf-ad03-487a-b3e6-bc5a935481fb/)
+
+Udemy - Microsoft Power BI from Basics to Advanced (10h) [link](https://www.udemy.com/certificate/UC-eaa4df6d-c355-42d2-8224-eb14976f2e4e/)
+
+Udemy - SAP Training for Beginners (2h) [link](https://www.udemy.com/certificate/UC-a31ee791-a78c-4576-817b-409c6752a375/)
+
+Udemy - SQL Training Applied to the Job Market (12h) [link](https://www.udemy.com/certificate/UC-ae65e1fc-1455-4983-a392-0607be911f71/)
+
 Zendesk - Foundational Support (3h) [link](https://www.credly.com/badges/4077d171-a31d-4788-8456-907507a4588f) 
 
 **Non-Tech**
@@ -134,7 +142,13 @@ Escola Nacional de Administração Pública / ENAP - Personal Finance Management
 
 Escola Nacional de Administração Pública / ENAP - Process Analysis and Improvement (20h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757672561505/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
 
+HubSpot Academy - Inbound Marketing (5h) [link](https://app.hubspot.com/academy/achievements/smqqz4rp/en/1/caio-ternus-de-abreu/inbound-marketing)
+
 IBM SkillsBuild - Project Management Fundamentals (8h) [link](https://www.credly.com/badges/64fbdda9-0d55-401a-86cd-c30f3fccf1b9)
+
+LinkedIn Learning - Project Management: How to Solve The Most Common Problems (1h) [link](https://www.linkedin.com/learning/certificates/b95e7393fcd8b0371813a7a5b0bf906a67486ff35ba3d426ca5d19633470abd4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BUVR1fl9ZRQWC6hQcsvPjpg%3D%3D)
+
+openSAP - Design Thinking in a Nutshell (3h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757714811287/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
 
 Pontifical Catholic University of Rio Grande do Sul / PUCRS - Change Management Basics (10h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757677536652/single-media-viewer?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BEMtlBnaHT0u5USu%2FlHxJhA%3D%3D)
 
@@ -146,6 +160,12 @@ Serviço Brasileiro de Apoio às Micro e Pequenas Empresas / SEBRAE - Corporate 
 
 Serviço Brasileiro de Apoio às Micro e Pequenas Empresas / SEBRAE - Customer Service (8h) [link](https://api-certificados.sebrae.com.br/v1/public/certificado/arquivo/6557a2f409105a59afd8892b)
 
+Serviço Brasileiro de Apoio às Micro e Pequenas Empresas / SEBRAE - Customer Success (2h) [link](https://api-certificados.sebrae.com.br/v1/public/certificado/arquivo/6569dedbed656047b5afe671)
+
 Serviço Brasileiro de Apoio às Micro e Pequenas Empresas / SEBRAE - How to Increase Your Sales (3h) [link](https://api-certificados.sebrae.com.br/v1/public/certificado/arquivo/6557c79309105a59afda89f1)
 
 Serviço Brasileiro de Apoio às Micro e Pequenas Empresas / SEBRAE - Negotiation (3h) [link](https://api-certificados.sebrae.com.br/v1/public/certificado/arquivo/6557c7b309105a59afdabbf0)
+
+Udemy - Agile Project Management with Scrum (6.5h) [link](https://www.udemy.com/certificate/UC-c1f60b98-9fdf-4ba0-b78f-169fb6a89cdb/)
+
+Wizard by Pearson Language Institute - English as Second Language (210h)
