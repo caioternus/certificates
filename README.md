@@ -126,6 +126,8 @@ Cubos Academy - Product Management (6h) [link](https://aulas.cubos.academy/certi
 
 G4 Educação - Culture and Leadership (10h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757695132434/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
 
+Fundação Getúlio Vargas / FGV Online - Lean Management: Implementation Challenges (5h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757715226840/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
+
 Escola Nacional de Administração Pública / ENAP - Emotional Intelligence (50h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757697733648/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
 
 Escola Nacional de Administração Pública / ENAP - Personal Finance Management [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757697922830/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
