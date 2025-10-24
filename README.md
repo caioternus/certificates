@@ -14,11 +14,17 @@ Amazon Web Services / AWS - AWS Cloud Essentials (10h) [link](https://www.credly
 
 Asana Academy - Asana Foundations Skill Badge (2h) [link](https://certifications.asana.com/f2b0810d-b722-433b-bed2-291d2e36bfda#acc.cyJgevC6)
 
+Bradesco Foundation - Database Administration (15h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757679093303/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
+
 Cisco Networking Academy - Introduction to Data Science (6h) [link](https://www.credly.com/badges/d7da0084-ac7e-4082-9187-c23a99a42318)
 
 Databricks Academy - Databricks Fundamentals (2h) [link](https://credentials.databricks.com/f979c3bf-b497-40a8-b22a-8aed412f59ea#acc.MIBUkpQx)
 
 Data Science Academy / DSA - Fundamentals of Microsoft Power BI for Business Intelligence and Data Science (72h) [link](https://www.datascienceacademy.com.br/certificate_v2/6462fe1b2bb04988150abc99/user/674b082d4f28d8069d02b8ba)
+
+Fundação Getúlio Vargas / FGV Online - Introduction to Business Intelligence (9h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757715899349/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
+
+Fundação Getúlio Vargas / FGV Online - Introduction to GIT and GitHub (16h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757715657619/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
 
 Fundação Getúlio Vargas / FGV Online - SQL Structured Query Language (24h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1759505974351/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
 
@@ -49,6 +55,10 @@ Polytechnic University of Lisbon - Database Fundamentals (25h) [link](https://lm
 Polytechnic University of Lisbon - Data Structures (25h) [link](https://lms.nau.edu.pt/certificates/1c8e2d18230546e297f5e0c59a10a2dc)
 
 Santander Open Academy - Power BI Fundamentals (8h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757675670531/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
+
+SAP Learning - Administrating SAP S/4HANA Cloud, Public Edition (5h) [link](https://www.credly.com/badges/5bc049ce-0bb2-4e3b-bc1d-9bf78cea2779)
+
+SAP Learning - Discovering Extended Warehouse Management with SAP S/4HANA (4h) [link](https://www.credly.com/badges/bc163b26-9568-436f-8fb7-3a0a547aac94)
 
 SAP Learning - Getting Started with Concur Expense Learning Journey for Customer Users (3h) [link](https://www.credly.com/badges/22a3b30f-0cd4-40bf-8dac-80ec1ada3fc9)
 
