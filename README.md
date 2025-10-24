@@ -78,6 +78,8 @@ SAP Learning - Discovering SAP Ariba Procurement (1h) [link](https://www.credly.
 
 SAP Learning - Discovering SAP Ariba Sourcing (1h) [link](https://www.credly.com/badges/5df95038-8698-4434-8dcf-ab53bc00acf4)
 
+SAP Learning - Exploring SAP SuccessFactors Solutions (4h) [link](https://www.credly.com/badges/228dff55-b090-4448-83a1-6b3b4a7ea423)
+
 SAP Learning - Getting Started with Concur Expense Learning Journey for Customer Users (3h) [link](https://www.credly.com/badges/22a3b30f-0cd4-40bf-8dac-80ec1ada3fc9)
 
 SAP Learning - Getting Started with Support from SAP (Support Accreditation) (3h) [link](https://www.credly.com/badges/80a0c52f-d212-49e5-959a-9186c0db273b)
@@ -85,6 +87,10 @@ SAP Learning - Getting Started with Support from SAP (Support Accreditation) (3h
 SAP Learning - Introducing SAP Fieldglass (5h) [link](https://www.credly.com/badges/b4b12d07-788f-41fc-9174-180c12b3e049)
 
 SAP Learning - Learning the Basics of ABAP Programming on SAP BTP (8h) [link](https://www.credly.com/badges/b02dcf05-73f4-42f8-8733-28b0683f3670)
+
+SAP Learning - Overview of Financials in SAP S/4HANA (3h) [link](https://www.credly.com/badges/f2fe23d8-c847-47da-9f72-28ce560fbf18)
+
+Serviço Brasileiro de Apoio às Micro e Pequenas Empresas / SEBRAE - How to Increase Your Sales (3h) [link](https://api-certificados.sebrae.com.br/v1/public/certificado/arquivo/6557c79309105a59afda89f1)
 
 Simplilearn - Introduction to Cybersecurity (2h) [link](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxMjEzIiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvdGh1bWJfNzM4MjQ5OF8xNzI2NTk3MzI1LnBuZyIsInVzZXJuYW1lIjoiQ2FpbyBUZXJudXMgZGUgQWJyZXUifQ%3D%3D&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fdashboard%2Fcertificate&%24web_only=true&_branch_match_id=1484989663381061130&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVr8qNMqvyTPew9E2yrytKTUstKsrMS49PKsovL04tsvUBqkpN8cwDAK%2Bg0VFBAAAA)
 
@@ -102,12 +108,19 @@ Udemy - JavaScript Fundamentals (8h) [link](https://www.udemy.com/certificate/UC
 
 Udemy - Microsoft Azure AZ-900 Fundamentals (4.5h) [link](https://udemy-certificate.s3.amazonaws.com/pdf/UC-cbac4f90-5a25-4ae1-9d4c-868858b0c782.pdf)
 
+Zendesk - Foundational Support (3h) [link](https://www.credly.com/badges/4077d171-a31d-4788-8456-907507a4588f) 
 
 **Non-Tech**
 
+Conquer Business School - Communication and Oratory (10h) [link](https://drive.conqueronline.com.br/CertificadosTeste/Comunica%C3%A7%C3%A3o%20e%20Orat%C3%B3ria/1684795355914-8b813221-43e0-4f6d-96d8-187753178bc3.jpeg)
+
 Conquer Business School - How to Make Good Presentations (10h) [link](https://drive.conqueronline.com.br/CertificadosTeste/Apresenta%C3%A7%C3%B5es%20que%20conquistam:%20segredos%20da%20influ%C3%AAncia%20e%20persuas%C3%A3o/1699311178394-729cb1e6-1547-47d2-a408-35707a544b3f.jpeg)
 
+Conquer Business School - Leadership Training (10h) [link](https://drive.conqueronline.com.br/CertificadosTeste/Forma%C3%A7%C3%A3o%20em%20Lideran%C3%A7a/1694522867212-945126b3-534b-4ac6-b328-39984744d675.jpeg)
+
 Cubos Academy - Product Management (6h) [link](https://aulas.cubos.academy/certificado/9dbf1de4-1ac2-4516-bf56-46f57e17d31f/cursos/20972094-4e7a-48c3-a20e-b71d5c7136ec)
+
+G4 Educação - Culture and Leadership (10h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757695132434/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
 
 Escola Nacional de Administração Pública / ENAP - Process Analysis and Improvement (20h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757672561505/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
 
