@@ -20,8 +20,6 @@ Databricks Academy - Databricks Fundamentals (2h) [link](https://credentials.dat
 
 Data Science Academy / DSA - Fundamentals of Microsoft Power BI for Business Intelligence and Data Science (72h) [link](https://www.datascienceacademy.com.br/certificate_v2/6462fe1b2bb04988150abc99/user/674b082d4f28d8069d02b8ba)
 
-Escola Nacional de Administração Pública / ENAP - Process Analysis and Improvement (20h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757672561505/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
-
 Fundação Getúlio Vargas / FGV Online - SQL Structured Query Language (24h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1759505974351/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
 
 Google Cloud Skills Boost - Google Sheets (3h) [link](https://www.skills.google/public_profiles/40c4c626-674f-41f6-aae1-57f1c7419923/badges/13434580)
@@ -37,6 +35,8 @@ Great Learning Academy - Software Development Lifecycle Fundamentals (1.5h) [lin
 Great Learning Academy - UI / UX for Beginners (1h) [link](https://www.mygreatlearning.com/certificate/OQLSSQMO)
 
 IBM SkillsBuild - Customer Engagement: Problem Solving and Process Controls (4h) [link](https://www.credly.com/badges/b3b01b05-015d-4184-8964-d333f0d0be98)
+
+IBM SkillsBuild - Information Technology Fundamentals (11h) [link](https://www.credly.com/badges/045ccfaa-c052-4f85-ade2-24f494ed77f4)
 
 Indiana University Bloomington - Microsoft Excel: Analyzing Data with Pivot Tables (3h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757693938489/single-media-viewer?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BEMtlBnaHT0u5USu%2FlHxJhA%3D%3D)
 
@@ -71,5 +71,11 @@ Udemy - Microsoft Azure AZ-900 Fundamentals (4.5h) [link](https://udemy-certific
 
 Cubos Academy - Product Management (6h) [link](https://aulas.cubos.academy/certificado/9dbf1de4-1ac2-4516-bf56-46f57e17d31f/cursos/20972094-4e7a-48c3-a20e-b71d5c7136ec)
 
+Escola Nacional de Administração Pública / ENAP - Process Analysis and Improvement (20h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757672561505/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
+
+IBM SkillsBuild - Project Management Fundamentals (8h) [link](https://www.credly.com/badges/64fbdda9-0d55-401a-86cd-c30f3fccf1b9)
+
 Project Management Institute / PMI - The Basics of Scrum (2) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757693615465/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
+
+Pontifical Catholic University of Rio Grande do Sul / PUCRS - Change Management Basics (10h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757677536652/single-media-viewer?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BEMtlBnaHT0u5USu%2FlHxJhA%3D%3D)
 
