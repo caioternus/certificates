@@ -1,6 +1,6 @@
 # List of certificates
 
-This repository contains a list of certificates (technical and non-technical) from courses that complemented my formal education.
+This repository contains a list of certificates (tech and non-tech) from courses that complemented my formal education.
 It was created primarily to reduce the amount of information available on my professional LinkedIn profile and to share some available learning materials which may be useful.
 
 *(for example: tech certificates cover the fields of business intelligence; data analysis, science and engineering; computer science & programming; information systems & enterprise softwares; cloud computing platforms, etc.)* 
@@ -23,6 +23,8 @@ Cisco Networking Academy - Introduction to Data Science (6h) [link](https://www.
 Databricks Academy - Databricks Fundamentals (2h) [link](https://credentials.databricks.com/f979c3bf-b497-40a8-b22a-8aed412f59ea#acc.MIBUkpQx)
 
 Data Science Academy / DSA - Fundamentals of Microsoft Power BI for Business Intelligence and Data Science (72h) [link](https://www.datascienceacademy.com.br/certificate_v2/6462fe1b2bb04988150abc99/user/674b082d4f28d8069d02b8ba)
+
+Elastic - Kibana Fundamentals (2h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757695579078/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
 
 Faculdade de Informática e Administração Paulista / FIAP ON - Cloud Fundamentals (80h) [link](https://on.fiap.com.br/pluginfile.php/1/local_nanocourses/certificado_nanocourse/108865/a4e67aeeb6d343142eefe3ca1c58fb7e/certificado.png)
 
@@ -78,6 +80,8 @@ SAP Learning - Discovering SAP Ariba Procurement (1h) [link](https://www.credly.
 
 SAP Learning - Discovering SAP Ariba Sourcing (1h) [link](https://www.credly.com/badges/5df95038-8698-4434-8dcf-ab53bc00acf4)
 
+SAP Learning - Exploring SAP Business Technology Platform (3h) [link](https://www.credly.com/badges/47d6a0a4-b825-4f47-bab6-940582ab8f6d)
+
 SAP Learning - Exploring SAP SuccessFactors Solutions (4h) [link](https://www.credly.com/badges/228dff55-b090-4448-83a1-6b3b4a7ea423)
 
 SAP Learning - Getting Started with Concur Expense Learning Journey for Customer Users (3h) [link](https://www.credly.com/badges/22a3b30f-0cd4-40bf-8dac-80ec1ada3fc9)
@@ -89,8 +93,6 @@ SAP Learning - Introducing SAP Fieldglass (5h) [link](https://www.credly.com/bad
 SAP Learning - Learning the Basics of ABAP Programming on SAP BTP (8h) [link](https://www.credly.com/badges/b02dcf05-73f4-42f8-8733-28b0683f3670)
 
 SAP Learning - Overview of Financials in SAP S/4HANA (3h) [link](https://www.credly.com/badges/f2fe23d8-c847-47da-9f72-28ce560fbf18)
-
-Serviço Brasileiro de Apoio às Micro e Pequenas Empresas / SEBRAE - How to Increase Your Sales (3h) [link](https://api-certificados.sebrae.com.br/v1/public/certificado/arquivo/6557c79309105a59afda89f1)
 
 Simplilearn - Introduction to Cybersecurity (2h) [link](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxMjEzIiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvdGh1bWJfNzM4MjQ5OF8xNzI2NTk3MzI1LnBuZyIsInVzZXJuYW1lIjoiQ2FpbyBUZXJudXMgZGUgQWJyZXUifQ%3D%3D&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fdashboard%2Fcertificate&%24web_only=true&_branch_match_id=1484989663381061130&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVr8qNMqvyTPew9E2yrytKTUstKsrMS49PKsovL04tsvUBqkpN8cwDAK%2Bg0VFBAAAA)
 
@@ -122,6 +124,8 @@ Cubos Academy - Product Management (6h) [link](https://aulas.cubos.academy/certi
 
 G4 Educação - Culture and Leadership (10h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757695132434/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
 
+Escola Nacional de Administração Pública / ENAP - Personal Finance Management [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757697922830/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
+
 Escola Nacional de Administração Pública / ENAP - Process Analysis and Improvement (20h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757672561505/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
 
 IBM SkillsBuild - Project Management Fundamentals (8h) [link](https://www.credly.com/badges/64fbdda9-0d55-401a-86cd-c30f3fccf1b9)
@@ -131,3 +135,11 @@ Pontifical Catholic University of Rio Grande do Sul / PUCRS - Change Management 
 Porto Business School - Technological Entrepreneurship (12h) [link](https://lms.nau.edu.pt/certificates/87bad5d943c44911b100ea6ae4ed91cd)
 
 Project Management Institute / PMI - The Basics of Scrum (2) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757693615465/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
+
+Serviço Brasileiro de Apoio às Micro e Pequenas Empresas / SEBRAE - Corporate Social Responsibility (3h) [link](https://api-certificados.sebrae.com.br/v1/public/certificado/arquivo/6557c79809105a59afda8fbe)
+
+Serviço Brasileiro de Apoio às Micro e Pequenas Empresas / SEBRAE - Customer Service (8h) [link](https://api-certificados.sebrae.com.br/v1/public/certificado/arquivo/6557a2f409105a59afd8892b)
+
+Serviço Brasileiro de Apoio às Micro e Pequenas Empresas / SEBRAE - How to Increase Your Sales (3h) [link](https://api-certificados.sebrae.com.br/v1/public/certificado/arquivo/6557c79309105a59afda89f1)
+
+Serviço Brasileiro de Apoio às Micro e Pequenas Empresas / SEBRAE - Negotiation (3h) [link](https://api-certificados.sebrae.com.br/v1/public/certificado/arquivo/6557c7b309105a59afdabbf0)
