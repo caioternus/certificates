@@ -44,6 +44,8 @@ Fundação Getúlio Vargas / FGV Online - Introduction to GIT and GitHub (16h) [
 
 Fundação Getúlio Vargas / FGV Online - SQL Structured Query Language (24h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1759505974351/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
 
+Google Cloud Skills Boost - Google Analytics (5h) [link](https://skillshop.credential.net/c3fb001a-355b-4b95-a724-151225caafd6#acc.FgNpPTbz)
+
 Google Cloud Skills Boost - Google Sheets (3h) [link](https://www.skills.google/public_profiles/40c4c626-674f-41f6-aae1-57f1c7419923/badges/13434580)
 
 Great Learning Academy - Introduction to API and RESTful API (1h) [link](https://www.mygreatlearning.com/certificate/JRKXBCOQ)
