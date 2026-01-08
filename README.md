@@ -28,6 +28,8 @@ Data Science Academy / DSA - Fundamentals of Data Science and Artificial Intelli
 
 Data Science Academy / DSA - Fundamentals of Microsoft Power BI for Business Intelligence and Data Science (72h) [link](https://www.datascienceacademy.com.br/certificate_v2/6462fe1b2bb04988150abc99/user/674b082d4f28d8069d02b8ba)
 
+dbt Labs - dbt Fundamentals (5h) [link](https://credentials.getdbt.com/aa6723a0-0087-42f0-8eeb-07b77d59b0c8#acc.cTHfrtF1)
+
 Elastic - Kibana Fundamentals (2h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757695579078/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
 
 Faculdade de Informática e Administração Paulista / FIAP ON - Cloud Fundamentals (80h) [link](https://on.fiap.com.br/pluginfile.php/1/local_nanocourses/certificado_nanocourse/108865/a4e67aeeb6d343142eefe3ca1c58fb7e/certificado.png)
@@ -109,6 +111,8 @@ Simplilearn - Introduction to Kubernetes (2h) [link](https://www.simplilearn.com
 Simplilearn - Introduction to Tableau (2h) [link](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiI0MDY4IiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvNzUyOTU5M181MjczOTA4MTczMDk5NzM4MDU3Mi5wbmciLCJ1c2VybmFtZSI6IkNhaW8gVGVybnVzIGRlIEFicmV1In0%3D&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fdashboard%2Fcertificate&%24web_only=true&_branch_match_id=1484989663381061130&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVzzAv8AhLNfHP9k%2ByrytKTUstKsrMS49PKsovL04tsvUBqkpN8cwDAFr2JqJBAAAA)
 
 Simplilearn - Getting Started with Docker (2h) [link](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxNzQxIiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvNzUwNzUxNF81MjczOTA4MTczMDIxNjM4OTI4Ni5wbmciLCJ1c2VybmFtZSI6IkNhaW8gVGVybnVzIGRlIEFicmV1In0%3D&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F4231%2FGetting-Started-with-Docker%2Fcertificate%2Fdownload-skillup&%24web_only=true&_branch_match_id=1484989663381061130&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVrzSNigzPDvI39UuyrytKTUstKsrMS49PKsovL04tsvUBqkpN8cwDAK5YmMFBAAAA)
+
+Snowflake Academy - Data Warehousing Workshop (15h) [link](https://achieve.snowflake.com/3446de03-c4de-4b1a-ab87-4a79dcf3a8b1#acc.3VLIYc7E)
 
 Udemy - Bootcamp Python (34h) [link](https://www.udemy.com/certificate/UC-5a292490-b158-4fb5-b1e6-90633ec92eef/)
 
