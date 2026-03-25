@@ -40,6 +40,10 @@ Faculdade de Informática e Administração Paulista / FIAP ON - Linux Fundament
 
 FM2S Educação e Consultoria - Lean Six Sigma Yellow Belt Training (24h) [link](https://ead.fm2s.com.br/certificado/184932)
 
+Fundação Getúlio Vargas / FGV Online - Excel for Data Science - Basic (15h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1774080144145/single-media-viewer?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvxjqiblkT8CyKfgTAL1aPQ%3D%3D)
+
+Fundação Getúlio Vargas / FGV Online - Excel for Data Science - Intermediate (15h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1774080290957/single-media-viewer?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BbUoEwbgXQyeNEZjW8Z08Mg%3D%3D)
+
 Fundação Getúlio Vargas / FGV Online - Introduction to Business Intelligence (9h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757715899349/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
 
 Fundação Getúlio Vargas / FGV Online - Introduction to GIT and GitHub (16h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757715657619/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
@@ -77,6 +81,8 @@ Indiana University Bloomington - Microsoft Excel: Basic Automation Using Macros 
 Indiana University Bloomington - XML: The Essentials (4h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1757694626881/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
 
 Miro Academy - Miro Essentials Skill Badge (2h) [link](https://www.credly.com/badges/cc5cbf0f-0040-4f6d-a1ea-3f9a0b0c467d)
+
+Polytechnic University of Lisbon - Algorithms and Complexity (25h) [link](https://lms.nau.edu.pt/certificates/82eadbc9b2c14e13ae8b840535d60db8)
 
 Polytechnic University of Lisbon - Database Fundamentals (25h) [link](https://lms.nau.edu.pt/certificates/267cf963bc6d444a9db7aa6ba4bd393b)
 
