@@ -38,6 +38,12 @@ Faculdade de Informática e Administração Paulista / FIAP ON - DevOps & Agile 
 
 Faculdade de Informática e Administração Paulista / FIAP ON - Linux Fundamentals (40h) [link](https://on.fiap.com.br/pluginfile.php/1/local_nanocourses/certificado_nanocourse/106871/bb801f424be9a1cc7930c476c48c8ee1/certificado.png)
 
+Federal Institute of Education, Science and Technology of Minas Gerais / IFMG - Big Data Basics (40h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1769897402892/single-media-viewer/?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs)
+
+Federal Institute of Education, Science and Technology of Rio Grande do Sul / IFRS - Software Project Management with PMBOK (40h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1770832922862/single-media-viewer?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvxjqiblkT8CyKfgTAL1aPQ%3D%3D)
+
+Federal Institute of Education, Science and Technology of Rio Grande do Sul / IFRS - Web Systems Project (30h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1770035517337/single-media-viewer?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvxjqiblkT8CyKfgTAL1aPQ%3D%3D)
+
 FM2S Educação e Consultoria - Lean Six Sigma Yellow Belt Training (24h) [link](https://ead.fm2s.com.br/certificado/184932)
 
 Fundação Getúlio Vargas / FGV Online - Excel for Data Science - Basic (15h) [link](https://www.linkedin.com/in/caio-ternus-de-abreu/details/certifications/1774080144145/single-media-viewer?type=DOCUMENT&profileId=ACoAABLtKa8B0oVw4EwOlFBnAPMeuMr8HiBAzGs&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvxjqiblkT8CyKfgTAL1aPQ%3D%3D)
